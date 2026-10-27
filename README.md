@@ -1,6 +1,10 @@
-# DikelKart — Katalog Produk & Pendaftaran Member
+# Tampilan
+## index.html
+<img width="1911" height="1031" alt="image" src="https://github.com/user-attachments/assets/aee352af-7111-48cb-ab8b-540f4cb5d5bd" />
 
-DikelKart adalah situs katalog belanja sederhana yang dibuat menggunakan HTML, CSS, dan JavaScript native tanpa framework. Proyek ini terdiri dari halaman katalog produk dan halaman pendaftaran member yang saling terhubung melalui navigasi.
+## form.html
+<img width="1908" height="1034" alt="image" src="https://github.com/user-attachments/assets/0a8e89e9-8218-4ab8-a4dd-c80b332ec432" />
+
 
 ## Fitur
 
